@@ -130,3 +130,6 @@ dmypy.json
 
 # Etc
 .DS_Store
+
+# data (MNIST)
+/data
